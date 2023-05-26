@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: rgba(131, 65, 65, 0.849);
+}
+
+#bottom{
+    background-color: teal;
+    margin: 20px 700px;
+    padding: 30px;
+}

@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    margin-top: auto !important;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: italic;
+}
+
+
+body{
+    padding:450px 20px 20px 20px;
+}
+
+#header{
+    background-color: teal;
+    margin: 20px 700px;
+    padding: 30px;
+}
+.lists{
+    background-color: rgba(131, 65, 65, 0.849);
+    margin: 20px 700px;
+    padding: 30px;
+}
+

@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    
+}
+
+body{
+    background-color: teal;
+}
+
+.links{
+    background-color: rgba(131, 65, 65, 0.849);
+    padding: 40px 30px 30px 30px;
+    margin: 90px;
+}
